@@ -1,0 +1,14 @@
+E:\Nova pasta\C#\sitemarmita\bin\Debug\net7.0\sitemarmita.exe
+E:\Nova pasta\C#\sitemarmita\bin\Debug\net7.0\sitemarmita.deps.json
+E:\Nova pasta\C#\sitemarmita\bin\Debug\net7.0\sitemarmita.runtimeconfig.json
+E:\Nova pasta\C#\sitemarmita\bin\Debug\net7.0\sitemarmita.dll
+E:\Nova pasta\C#\sitemarmita\bin\Debug\net7.0\sitemarmita.pdb
+E:\Nova pasta\C#\sitemarmita\obj\Debug\net7.0\sitemarmita.GeneratedMSBuildEditorConfig.editorconfig
+E:\Nova pasta\C#\sitemarmita\obj\Debug\net7.0\sitemarmita.AssemblyInfoInputs.cache
+E:\Nova pasta\C#\sitemarmita\obj\Debug\net7.0\sitemarmita.AssemblyInfo.cs
+E:\Nova pasta\C#\sitemarmita\obj\Debug\net7.0\sitemarmita.csproj.CoreCompileInputs.cache
+E:\Nova pasta\C#\sitemarmita\obj\Debug\net7.0\sitemarmita.dll
+E:\Nova pasta\C#\sitemarmita\obj\Debug\net7.0\refint\sitemarmita.dll
+E:\Nova pasta\C#\sitemarmita\obj\Debug\net7.0\sitemarmita.pdb
+E:\Nova pasta\C#\sitemarmita\obj\Debug\net7.0\sitemarmita.genruntimeconfig.cache
+E:\Nova pasta\C#\sitemarmita\obj\Debug\net7.0\ref\sitemarmita.dll
